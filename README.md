@@ -2,6 +2,15 @@
 <h3 align="center">git commit -m "Hello, I'm a Student at Bharati Vidyapeeth's College of Engineering"</h3>
 
 
+<h3 align="center">Featured Projects :rocket:</h3>
+<p align="center">
+  <code><a href = "https://github.com/harshitbansall/EDITH" target="_blank">EDITH</a></code>
+  <code><a href = "https://github.com/harshitbansall/PopcornTimes" target="_blank">Popcorn Times</a></code>
+  <code><a href = "https://github.com/harshitbansall/TradeX" target="_blank">TradeX</a></code>
+  <code><a href = "https://github.com/harshitbansall/InstagramBOT" target="_blank">Instagram BOT</a></code>
+  <code><a href = "https://github.com/harshitbansall/GST-2A-B2B-Manager" target="_blank">GST 2A-B2B Manager</a></code>
+</p>
+
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 

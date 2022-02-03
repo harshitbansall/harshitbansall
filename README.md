@@ -21,4 +21,9 @@
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   
-  
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+<a href="https://twitter.com/harshitbansall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshitbansall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrika-deb" height="30" width="40" /></a>
+<a href="https://instagram.com/harshitbansall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrikadeb7" height="30" width="40" /></a>
+</p>

@@ -1,18 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Harshit Bansal</h1>
-<h3 align="center">git commit -m "Hello, I'm a Student at Bharati Vidyapeeth's College of Engineering"</h3>
+<h3 align="center">Student at Bharati Vidyapeeth's College of Engineering</h3>
 
-
-<h3 align="center">Featured Projects :rocket:</h3>
-<p align="center">
-  <code><a href = "https://github.com/harshitbansall/EDITH" target="_blank">EDITH</a></code>
-  <code><a href = "https://github.com/harshitbansall/PopcornTimes" target="_blank">Popcorn Times</a></code>
-  <code><a href = "https://github.com/harshitbansall/TradeX" target="_blank">TradeX</a></code>
-  <code><a href = "https://github.com/harshitbansall/InstagramBOT" target="_blank">Instagram BOT</a></code>
-  <code><a href = "https://github.com/harshitbansall/GST-2A-B2B-Manager" target="_blank">GST 2A-B2B Manager</a></code>
-</p>
-
-
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center"> Languages and Tools </h3>
 <p align="center"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/> </a>
@@ -29,7 +18,19 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  </p>
+ </p>
+ 
+<h3 align="center">Featured Projects :rocket:</h3>
+<p align="center">
+  <code><a href = "https://github.com/harshitbansall/EDITH" target="_blank">EDITH</a></code>
+  <code><a href = "https://github.com/harshitbansall/PopcornTimes" target="_blank">Popcorn Times</a></code>
+  <code><a href = "https://github.com/harshitbansall/TradeX" target="_blank">TradeX</a></code>
+  <code><a href = "https://github.com/harshitbansall/InstagramBOT" target="_blank">Instagram BOT</a></code>
+  <code><a href = "https://github.com/harshitbansall/GST-2A-B2B-Manager" target="_blank">GST 2A-B2B Manager</a></code>
+</p>
+
+
+
   
   
 <h3 align="center">Hobbies And Interests</h3>
@@ -44,8 +45,10 @@
   
   
 </p>
-
-
+<div align="center">
+<img height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbansall&theme=radical"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbansall&count_private=true&layout=compact&theme=radical&show_icons=true" />
+</div>
 <h3 align="center">Connect With Me</h3>
 <p align="center">
 <a href="https://twitter.com/harshitbansall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrikadeb7" height="30" width="40" /></a>

@@ -47,8 +47,8 @@
 
 <div align="center">
 <img height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbansall&theme=radical"><br>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbansall&count_private=true&layout=compact&theme=radical&show_icons=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitbansall&count_private=true&show_icons=true&theme=radical" />
+<img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbansall&count_private=true&layout=compact&theme=radical&show_icons=true" />
+<img height="200px" width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitbansall&count_private=true&show_icons=true&theme=radical" />
 </div>
 
 

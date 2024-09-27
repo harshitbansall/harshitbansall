@@ -40,7 +40,7 @@
   <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v1.png" alt="adobe after effects" width="40" height="40"/> </a> 
   <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="adobe audition" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="adobe photoshop" width="40" height="40"/> </a>
-  <a href="https://www.youtube.com/channel/UCQ7SK8xtu-xF9fEDBvpgIkg" target="_blank"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="adobe after effects" width="40" height="40"/> </a> 
+  <a href="https://www.youtube.com/channel/UCQ7SK8xtu-xF9fEDBvpgIkg"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="adobe after effects" width="40" height="40"/> </a> 
 </p>
 
 

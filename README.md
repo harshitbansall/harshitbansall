@@ -22,7 +22,11 @@
  
 <h3 align="center">Featured Projects :rocket:</h3>
 <p align="center">
-  <code><a href = "https://popcorn-times.herokuapp.com/" target="_blank">Popcorn Times</a></code>
+  <code><a href = "https://www.devharshit.in" target="_blank">Portfolio</a></code>
+  <code><a href = "https://the15percentclub.in" target="_blank">The 15 Percent Club</a></code>
+  <code><a href = "https://eduverse.devharshit.in" target="_blank">EduVerse</a></code>
+  <code><a href = "https://gamesdeck.devharshit.in" target="_blank">GamesDeck</a></code>
+  <code><a href = "https://popcorntimes28.pythonanywhere.com" target="_blank">Popcorn Times</a></code>
   <code><a href = "https://github.com/harshitbansall/EDITH" target="_blank">EDITH</a></code>
   <code><a href = "https://github.com/harshitbansall/TradeX" target="_blank">TradeX</a></code>
   <code><a href = "https://github.com/harshitbansall/InstagramBOT" target="_blank">Instagram BOT</a></code>
@@ -45,15 +49,14 @@
 
 
 <div align="center">
-<img height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbansall&theme=radical"><br>
-<img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitbansall&count_private=true&layout=compact&theme=radical&show_icons=true" />
-<img height="200px" width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitbansall&count_private=true&show_icons=true&theme=radical" />
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitbansall&theme=radical"><br>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitbansall&layout=donut-vertical&theme=radical" />
 </div>
 
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-<a href="https://twitter.com/harshitcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshitbansall" height="30" width="40" /></a>
+<a href="https://twitter.com/harshitcodes" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="harshitbansall" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/harshitbansall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshitbansall" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitbansall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitbansall" height="30" width="40" /></a>
 </p>

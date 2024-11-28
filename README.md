@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Harshit Bansal</h1>
-<h3 align="center">I'm a full-stack developer skilled in Python Django and React. I’ve built scalable web applications across algorithmic trading, conversational commerce, and SaaS.</h3>
+<h3 align="center">I’m a full-stack developer who enjoys creating dynamic and scalable web applications. With expertise in React and Python Django, I love bringing ideas to life and building intuitive solutions that make a difference.</h3>
 <h3 align="center">Languages</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,postgres,mysql,mongodb,html,css" />
